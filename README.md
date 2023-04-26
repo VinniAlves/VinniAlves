@@ -7,3 +7,6 @@
 </div>
 
 ## 🛠 Linguages e Ferramentas de Desenvolvimento
+<div>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>     
