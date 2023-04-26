@@ -1,4 +1,11 @@
-# Olá, sou Vinicius! :D
+# Olá, Eu sou [Vinicius](https://github.com/VinniAlves) 👋
 
+## 📫 Como me encontrar:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vinicius-De-Lima-Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-de-lima-alves-7a1b11204)](https://www.linkedin.com/in/vinicius-de-lima-alves-7a1b11204)
+ <div> 
+
+  <a href="https://www.linkedin.com/in/vinicius-de-lima-alves-7a1b11204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+## 🛠 Linguages e Ferramentas de Desenvolvimento
