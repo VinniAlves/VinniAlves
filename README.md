@@ -8,5 +8,5 @@
 
 ## 🛠 Linguages e Ferramentas de Desenvolvimento
 <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" `height=16px` `width=16px` />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 </div>     
