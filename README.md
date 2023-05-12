@@ -18,5 +18,6 @@
 
 ## [Projetos]
 - <a href="https://github.com/VinniAlves/Retalhos-Cascavel"> <p>Retalhos Cascavel</p></a>
+- <a href="https://github.com/VinniAlves/Project_Pokemon_Pokedex_React"> <p>Pokedex</p></a>
 ##
 ![Snake animation](https://github.com/VinniAlves/VinniAlves/blob/output/github-contribution-grid-snake.svg)
