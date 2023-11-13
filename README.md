@@ -18,6 +18,3 @@
 
 ## [Projetos]
 - <a href="https://github.com/VinniAlves/Retalhos-Cascavel"> <p>Retalhos Cascavel</p></a>
-
-##
-![Snake animation](https://github.com/VinniAlves/VinniAlves/blob/output/github-contribution-grid-snake.svg)
