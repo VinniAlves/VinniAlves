@@ -14,10 +14,10 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" />
 </div>     
 
 ## [Projetos]
 - <a href="https://github.com/VinniAlves/Retalhos-Cascavel"> <p>Retalhos Cascavel</p></a>
 
-##
-![Snake animation](https://github.com/VinniAlves/VinniAlves/blob/output/github-contribution-grid-snake.svg)
