@@ -20,4 +20,5 @@
 
 ## [Projetos]
 - <a href="https://github.com/VinniAlves/Retalhos-Cascavel"> <p>Retalhos Cascavel</p></a>
+- <a href="https://github.com/VinniAlves/React_Pokedex"> <p>Pokedex</p></a>
 
