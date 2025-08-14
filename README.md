@@ -19,6 +19,7 @@
 </div>     
 
 ## [Projetos]
+- <a href="https://github.com/VinniAlves/Controle-estoque-Retalhos-Cascavel"> Retalhos Cascavel V2</p></a>
 - <a href="https://github.com/VinniAlves/Retalhos-Cascavel"> <p>Retalhos Cascavel</p></a>
 - <a href="https://github.com/VinniAlves/React_Pokedex"> <p>Pokedex</p></a>
 
